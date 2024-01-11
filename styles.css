@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body{
+	height:100vh;
+	display:flex;
+}
+nav{
+	width:16.66vw;
+	background-color:#D7E8D4;
+	height:100%;
+}
+main{
+	width:100%;
+}
+header{
+	background-color:yellowgreen;
+	height: 20%;
+}
+footer{
+	background-color:yellowgreen;
+	height: 20%;
+}
