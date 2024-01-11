@@ -18,13 +18,13 @@ header,footer{
 	display:flex;
 	width:80vw;
 }
-.article{
+.content article{
 	flex:3;
 	min-height:60vh;
 	width: 3/4*100vw;
 	padding: 1em;
 }
-.aside{
+.content aside{
 	background-color:#f5f5dc;
 	flex:1;
 	width:1/4*100vw;
